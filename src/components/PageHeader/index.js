@@ -6,7 +6,7 @@ import backIcon from "../../assets/images/icons/back.svg";
 
 import "./styles.css";
 
-function PageHeader({ title, ...props }) {
+function PageHeader({ title, description, ...props }) {
   return (
     <header className="page-header">
       <div className="top-bar-container">
@@ -18,6 +18,7 @@ function PageHeader({ title, ...props }) {
 
       <div className="header-content">
         <strong>{title}</strong>
+        {description && <p>{description}</p>}
         {props.children}
       </div>
     </header>
