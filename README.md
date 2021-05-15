@@ -2,7 +2,7 @@
     Proffy
 </h1>
 
-![Capturar](https://user-images.githubusercontent.com/49738156/117736400-784e4080-b1c5-11eb-914a-e5ed8f52df64.PNG)
+![Capturar](https://user-images.githubusercontent.com/49738156/118052225-5cc37100-b350-11eb-9026-9c68a011b800.PNG)
 
 ## Technologies
 This project was developed with the following:
